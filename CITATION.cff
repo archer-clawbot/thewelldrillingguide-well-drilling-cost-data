@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the DOI below."
+title: "Well Drilling Cost Register (US, published prices, October 2026)"
+type: dataset
+authors:
+  - name: "The Well Drilling Guide"
+    website: "https://www.thewelldrillingguide.com/"
+doi: "10.5281/zenodo.23404401"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23404401"
+  - type: url
+    value: "https://zenodo.org/records/23404401"
+url: "https://www.thewelldrillingguide.com/well-drilling-cost-data/"
+repository: "https://github.com/archer-clawbot/thewelldrillingguide-well-drilling-cost-data"
+license: CC-BY-4.0
+date-released: 2026-10-21
